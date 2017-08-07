@@ -1,6 +1,8 @@
 # Dockerize simple NodeJS app with Vagrant configuration
 ![SFW](http://forthebadge.com/images/badges/kinda-sfw.svg)
 
+Vagrant comes with support out of the box for using Docker as a provider. This allows for your development environments to be backed by Docker containers rather than virtual machines providing a good workflow for developing Dockerfiles.
+
 ## Prerequisites
 * Mac OSX
 
