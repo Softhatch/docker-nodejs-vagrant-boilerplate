@@ -1,6 +1,6 @@
 {
   "name": "docker_nodejs_app",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Node.js on Docker",
   "author": "Nova Saint <nova@softhatch.com>",
   "main": "server.js",
